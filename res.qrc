@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background.jpg</file>
+        <file>enemyShip.png</file>
+        <file>packman_left_1.png</file>
+        <file>packman_left_2.png</file>
+        <file>packman_left_3.png</file>
+        <file>packman_right_1.png</file>
+        <file>packman_right_2.png</file>
+        <file>packman_right_3.png</file>
+        <file>purple_ghost_1.png</file>
+        <file>purple_ghost_2.png</file>
+        <file>purple_ghost_3.png</file>
+        <file>green_ghost_1.png</file>
+        <file>green_ghost_2.png</file>
+        <file>green_ghost_3.png</file>
+        <file>red_ghost_1.png</file>
+        <file>red_ghost_2.png</file>
+        <file>red_ghost_3.png</file>
+        <file>cherry.png</file>
+        <file>logo.png</file>
+        <file>block.png</file>
+        <file>bomb.png</file>
+        <file>explosion_1.png</file>
+        <file>explosion_2.png</file>
+        <file>explosion_3.png</file>
+        <file>explosion_4.png</file>
+        <file>explosion_5.png</file>
+        <file>explosion_0.png</file>
+        <file>gold_apple.png</file>
+    </qresource>
+</RCC>
